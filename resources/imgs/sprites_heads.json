@@ -1,0 +1,1240 @@
+{
+"frames": {
+	"HeadAlbianAjetiLeft.png": {
+		"frame": {"x":357, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAlbianAjetiRight.png": {
+		"frame": {"x":765, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAlexandreLacazetteLeft.png": {
+		"frame": {"x":765, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAlexandreLacazetteRight.png": {
+		"frame": {"x":765, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAlexisSanchezLeft.png": {
+		"frame": {"x":765, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAlexisSanchezRight.png": {
+		"frame": {"x":765, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAllanSaintMaximinLeft.png": {
+		"frame": {"x":714, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAllanSaintMaximinRight.png": {
+		"frame": {"x":714, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndreGrayLeft.png": {
+		"frame": {"x":714, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndreGrayRight.png": {
+		"frame": {"x":714, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndriyYarmolenkoLeft.png": {
+		"frame": {"x":714, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndriyYarmolenkoRight.png": {
+		"frame": {"x":714, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndrosTownsendLeft.png": {
+		"frame": {"x":714, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndrosTownsendRight.png": {
+		"frame": {"x":714, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndyCarrollLeft.png": {
+		"frame": {"x":714, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAndyCarrollRight.png": {
+		"frame": {"x":714, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAnthonyMartialLeft.png": {
+		"frame": {"x":714, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAnthonyMartialRight.png": {
+		"frame": {"x":714, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAnwarElGhaziLeft.png": {
+		"frame": {"x":714, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAnwarElGhaziRight.png": {
+		"frame": {"x":714, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAshleyBarnesLeft.png": {
+		"frame": {"x":714, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAshleyBarnesRight.png": {
+		"frame": {"x":714, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAubameyangLeft.png": {
+		"frame": {"x":663, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAubameyangRight.png": {
+		"frame": {"x":663, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAyozePerezLeft.png": {
+		"frame": {"x":663, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadAyozePerezRight.png": {
+		"frame": {"x":663, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBayeOumarNiasseLeft.png": {
+		"frame": {"x":663, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBayeOumarNiasseRight.png": {
+		"frame": {"x":663, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBernardoSilvaLeft.png": {
+		"frame": {"x":663, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBernardoSilvaRight.png": {
+		"frame": {"x":663, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBerndLenoLeft.png": {
+		"frame": {"x":663, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBerndLenoRight.png": {
+		"frame": {"x":663, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBillySharpLeft.png": {
+		"frame": {"x":663, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadBillySharpRight.png": {
+		"frame": {"x":663, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadCallumWilsonLeft.png": {
+		"frame": {"x":663, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadCallumWilsonRight.png": {
+		"frame": {"x":663, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadCenkTosunLeft.png": {
+		"frame": {"x":663, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadCenkTosunRight.png": {
+		"frame": {"x":663, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChrisWoodLeft.png": {
+		"frame": {"x":612, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChrisWoodRight.png": {
+		"frame": {"x":612, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChristianBentekeLeft.png": {
+		"frame": {"x":612, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChristianBentekeRight.png": {
+		"frame": {"x":612, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChristianEriksenLeft.png": {
+		"frame": {"x":612, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChristianEriksenRight.png": {
+		"frame": {"x":612, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChristianPulisicLeft.png": {
+		"frame": {"x":612, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadChristianPulisicRight.png": {
+		"frame": {"x":612, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadConorHourihaneLeft.png": {
+		"frame": {"x":612, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadConorHourihaneRight.png": {
+		"frame": {"x":612, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDanielJamesLeft.png": {
+		"frame": {"x":612, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDanielJamesRight.png": {
+		"frame": {"x":612, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDannyDrinkwaterLeft.png": {
+		"frame": {"x":612, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDannyDrinkwaterRight.png": {
+		"frame": {"x":612, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDannyIngsLeft.png": {
+		"frame": {"x":612, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDannyIngsRight.png": {
+		"frame": {"x":612, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDannyWelbeckLeft.png": {
+		"frame": {"x":561, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDannyWelbeckRight.png": {
+		"frame": {"x":561, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidBrooksLeft.png": {
+		"frame": {"x":561, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidBrooksRight.png": {
+		"frame": {"x":561, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidDeGeaLeft.png": {
+		"frame": {"x":561, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidDeGeaRight.png": {
+		"frame": {"x":561, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidLuizLeft.png": {
+		"frame": {"x":561, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidLuizRight.png": {
+		"frame": {"x":561, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidMcGoldrickLeft.png": {
+		"frame": {"x":561, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidMcGoldrickRight.png": {
+		"frame": {"x":561, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidSilvaLeft.png": {
+		"frame": {"x":561, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDavidSilvaRight.png": {
+		"frame": {"x":561, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDeleAlliLeft.png": {
+		"frame": {"x":561, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDeleAlliRight.png": {
+		"frame": {"x":561, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDemaraiGrayLeft.png": {
+		"frame": {"x":561, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDemaraiGrayRight.png": {
+		"frame": {"x":561, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDiogoJotaLeft.png": {
+		"frame": {"x":510, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDiogoJotaRight.png": {
+		"frame": {"x":510, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDominicCalvertLewinLeft.png": {
+		"frame": {"x":510, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDominicCalvertLewinRight.png": {
+		"frame": {"x":510, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDwightGayleLeft.png": {
+		"frame": {"x":510, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadDwightGayleRight.png": {
+		"frame": {"x":510, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadErikLamelaLeft.png": {
+		"frame": {"x":510, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadErikLamelaRight.png": {
+		"frame": {"x":510, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadEtienneCapoueLeft.png": {
+		"frame": {"x":510, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadEtienneCapoueRight.png": {
+		"frame": {"x":510, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadFelipeAndersonLeft.png": {
+		"frame": {"x":510, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadFelipeAndersonRight.png": {
+		"frame": {"x":510, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadFlorinAndoneLeft.png": {
+		"frame": {"x":510, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadFlorinAndoneRight.png": {
+		"frame": {"x":510, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGabrielJesusLeft.png": {
+		"frame": {"x":510, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGabrielJesusRight.png": {
+		"frame": {"x":510, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGabrielMartinelliLeft.png": {
+		"frame": {"x":459, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGabrielMartinelliRight.png": {
+		"frame": {"x":459, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGeorginioWijnaldumLeft.png": {
+		"frame": {"x":459, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGeorginioWijnaldumRight.png": {
+		"frame": {"x":459, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGerardDeulofeuLeft.png": {
+		"frame": {"x":459, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGerardDeulofeuRight.png": {
+		"frame": {"x":459, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGlennMurrayLeft.png": {
+		"frame": {"x":459, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGlennMurrayRight.png": {
+		"frame": {"x":459, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGranitXhakaLeft.png": {
+		"frame": {"x":459, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGranitXhakaRight.png": {
+		"frame": {"x":459, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGuidoCarrilloLeft.png": {
+		"frame": {"x":459, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGuidoCarrilloRight.png": {
+		"frame": {"x":459, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGylfiSigurdssonLeft.png": {
+		"frame": {"x":459, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadGylfiSigurdssonRight.png": {
+		"frame": {"x":459, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadHarryKaneLeft.png": {
+		"frame": {"x":459, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadHarryKaneRight.png": {
+		"frame": {"x":459, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadHenrikhMkhitaryanLeft.png": {
+		"frame": {"x":408, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadHenrikhMkhitaryanRight.png": {
+		"frame": {"x":408, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadHugoLlorisLeft.png": {
+		"frame": {"x":408, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadHugoLlorisRight.png": {
+		"frame": {"x":408, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadIslamSlimaniLeft.png": {
+		"frame": {"x":408, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadIslamSlimaniRight.png": {
+		"frame": {"x":408, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJamesMaddisonLeft.png": {
+		"frame": {"x":408, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJamesMaddisonRight.png": {
+		"frame": {"x":408, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJamesMilnerLeft.png": {
+		"frame": {"x":408, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJamesMilnerRight.png": {
+		"frame": {"x":408, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJamieVardyLeft.png": {
+		"frame": {"x":408, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJamieVardyRight.png": {
+		"frame": {"x":408, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJeffHendrickLeft.png": {
+		"frame": {"x":408, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJeffHendrickRight.png": {
+		"frame": {"x":408, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJesseLingardLeft.png": {
+		"frame": {"x":408, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJesseLingardRight.png": {
+		"frame": {"x":408, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoaoMoutinhoLeft.png": {
+		"frame": {"x":357, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoaoMoutinhoRight.png": {
+		"frame": {"x":357, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoeHartLeft.png": {
+		"frame": {"x":357, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoeHartRight.png": {
+		"frame": {"x":357, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoeWillockLeft.png": {
+		"frame": {"x":357, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoeWillockRight.png": {
+		"frame": {"x":357, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoelintonCassioLeft.png": {
+		"frame": {"x":357, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoelintonCassioRight.png": {
+		"frame": {"x":765, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoseIzquierdoLeft.png": {
+		"frame": {"x":357, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoseIzquierdoRight.png": {
+		"frame": {"x":357, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoshuaKingLeft.png": {
+		"frame": {"x":357, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJoshuaKingRight.png": {
+		"frame": {"x":357, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJuanMataLeft.png": {
+		"frame": {"x":357, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadJuanMataRight.png": {
+		"frame": {"x":357, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadKelechiIheanachoLeft.png": {
+		"frame": {"x":357, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadKelechiIheanachoRight.png": {
+		"frame": {"x":357, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadKepaArrizabalagaLeft.png": {
+		"frame": {"x":306, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadKepaArrizabalagaRight.png": {
+		"frame": {"x":306, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadKevinDeBruyneLeft.png": {
+		"frame": {"x":306, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadKevinDeBruyneRight.png": {
+		"frame": {"x":306, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLeroySaneLeft.png": {
+		"frame": {"x":306, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLeroySaneRight.png": {
+		"frame": {"x":306, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLucasMouraLeft.png": {
+		"frame": {"x":306, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLucasMouraRight.png": {
+		"frame": {"x":306, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLucasTorreiraLeft.png": {
+		"frame": {"x":306, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLucasTorreiraRight.png": {
+		"frame": {"x":306, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLukaMilivojevicLeft.png": {
+		"frame": {"x":306, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadLukaMilivojevicRight.png": {
+		"frame": {"x":306, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMarcusRashfordLeft.png": {
+		"frame": {"x":306, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMarcusRashfordRight.png": {
+		"frame": {"x":306, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMarioVrancicLeft.png": {
+		"frame": {"x":306, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMarioVrancicRight.png": {
+		"frame": {"x":306, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMasonMountLeft.png": {
+		"frame": {"x":255, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMasonMountRight.png": {
+		"frame": {"x":255, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMateoKovacicLeft.png": {
+		"frame": {"x":255, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMateoKovacicRight.png": {
+		"frame": {"x":255, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMathewRyanLeft.png": {
+		"frame": {"x":255, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMathewRyanRight.png": {
+		"frame": {"x":255, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMattRitchieLeft.png": {
+		"frame": {"x":255, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMattRitchieRight.png": {
+		"frame": {"x":255, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMatteoGuendouziLeft.png": {
+		"frame": {"x":255, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMatteoGuendouziRight.png": {
+		"frame": {"x":255, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMaxMeyerLeft.png": {
+		"frame": {"x":255, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMaxMeyerRight.png": {
+		"frame": {"x":255, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMesutOzilLeft.png": {
+		"frame": {"x":255, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMesutOzilRight.png": {
+		"frame": {"x":255, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMichailAntonioLeft.png": {
+		"frame": {"x":255, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMichailAntonioRight.png": {
+		"frame": {"x":255, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMichyBatshuayiLeft.png": {
+		"frame": {"x":204, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMichyBatshuayiRight.png": {
+		"frame": {"x":204, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMohamedElyounoussiLeft.png": {
+		"frame": {"x":204, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMohamedElyounoussiRight.png": {
+		"frame": {"x":204, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMohamedSalahLeft.png": {
+		"frame": {"x":204, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadMohamedSalahRight.png": {
+		"frame": {"x":204, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadNabyKeitaLeft.png": {
+		"frame": {"x":204, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadNabyKeitaRight.png": {
+		"frame": {"x":204, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadNathanRedmondLeft.png": {
+		"frame": {"x":204, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadNathanRedmondRight.png": {
+		"frame": {"x":204, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadNicolasPepeLeft.png": {
+		"frame": {"x":204, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadNicolasPepeRight.png": {
+		"frame": {"x":204, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadOleksandrZinchenkoLeft.png": {
+		"frame": {"x":204, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadOleksandrZinchenkoRight.png": {
+		"frame": {"x":204, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadOlivierGiroudLeft.png": {
+		"frame": {"x":204, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadOlivierGiroudRight.png": {
+		"frame": {"x":204, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadOnelHernandezLeft.png": {
+		"frame": {"x":153, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadOnelHernandezRight.png": {
+		"frame": {"x":153, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPascalGrosLeft.png": {
+		"frame": {"x":153, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPascalGrosRight.png": {
+		"frame": {"x":153, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPatrickCutroneLeft.png": {
+		"frame": {"x":153, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPatrickCutroneRight.png": {
+		"frame": {"x":153, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPaulPogbaLeft.png": {
+		"frame": {"x":153, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPaulPogbaRight.png": {
+		"frame": {"x":153, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPedroLeft.png": {
+		"frame": {"x":153, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPedroRight.png": {
+		"frame": {"x":153, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPhilFodenLeft.png": {
+		"frame": {"x":153, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadPhilFodenRight.png": {
+		"frame": {"x":153, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRaheemSterlingLeft.png": {
+		"frame": {"x":153, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRaheemSterlingRight.png": {
+		"frame": {"x":153, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRaulJimenezLeft.png": {
+		"frame": {"x":153, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRaulJimenezRight.png": {
+		"frame": {"x":153, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRicharlisonLeft.png": {
+		"frame": {"x":102, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRicharlisonRight.png": {
+		"frame": {"x":102, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRiyadMahrezLeft.png": {
+		"frame": {"x":102, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRiyadMahrezRight.png": {
+		"frame": {"x":102, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRobertSnodgrassLeft.png": {
+		"frame": {"x":102, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRobertSnodgrassRight.png": {
+		"frame": {"x":102, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRobertoFirminoLeft.png": {
+		"frame": {"x":102, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRobertoFirminoRight.png": {
+		"frame": {"x":102, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRubenNevesLeft.png": {
+		"frame": {"x":102, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRubenNevesRight.png": {
+		"frame": {"x":102, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRyanFraserLeft.png": {
+		"frame": {"x":102, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRyanFraserRight.png": {
+		"frame": {"x":102, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRyanSessegnonLeft.png": {
+		"frame": {"x":102, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadRyanSessegnonRight.png": {
+		"frame": {"x":102, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSadioManeLeft.png": {
+		"frame": {"x":102, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSadioManeRight.png": {
+		"frame": {"x":102, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSebastienHallerLeft.png": {
+		"frame": {"x":51, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSebastienHallerRight.png": {
+		"frame": {"x":51, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSergioAgueroLeft.png": {
+		"frame": {"x":51, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSergioAgueroRight.png": {
+		"frame": {"x":51, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadShaneLongLeft.png": {
+		"frame": {"x":51, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadShaneLongRight.png": {
+		"frame": {"x":51, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSonHeungMinLeft.png": {
+		"frame": {"x":51, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadSonHeungMinRight.png": {
+		"frame": {"x":51, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTammyAbrahamLeft.png": {
+		"frame": {"x":51, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTammyAbrahamRight.png": {
+		"frame": {"x":51, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTanguyNdombeleLeft.png": {
+		"frame": {"x":51, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTanguyNdombeleRight.png": {
+		"frame": {"x":51, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTeemuPukkiLeft.png": {
+		"frame": {"x":51, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTeemuPukkiRight.png": {
+		"frame": {"x":51, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTheoWalcottLeft.png": {
+		"frame": {"x":51, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTheoWalcottRight.png": {
+		"frame": {"x":51, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadToddCantwellLeft.png": {
+		"frame": {"x":0, "y":765, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadToddCantwellRight.png": {
+		"frame": {"x":0, "y":714, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTroyDeeneyLeft.png": {
+		"frame": {"x":0, "y":663, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadTroyDeeneyRight.png": {
+		"frame": {"x":0, "y":612, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadVirgilVanDijkLeft.png": {
+		"frame": {"x":0, "y":561, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadVirgilVanDijkRight.png": {
+		"frame": {"x":0, "y":510, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadWesleyMoraesLeft.png": {
+		"frame": {"x":0, "y":459, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadWesleyMoraesRight.png": {
+		"frame": {"x":0, "y":408, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadWilfriedZahaLeft.png": {
+		"frame": {"x":0, "y":357, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadWilfriedZahaRight.png": {
+		"frame": {"x":0, "y":306, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadWillianBorgesLeft.png": {
+		"frame": {"x":0, "y":255, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadWillianBorgesRight.png": {
+		"frame": {"x":0, "y":204, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadXherdanShaqiriLeft.png": {
+		"frame": {"x":0, "y":153, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadXherdanShaqiriRight.png": {
+		"frame": {"x":0, "y":102, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadYoshinoriMutoLeft.png": {
+		"frame": {"x":0, "y":51, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"HeadYoshinoriMutoRight.png": {
+		"frame": {"x":0, "y":0, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	}
+
+},
+"meta": {
+	"image": "sprites_heads.png",
+	"size": {"w": 816, "h": 816},
+	"scale": "1"
+}
+}
